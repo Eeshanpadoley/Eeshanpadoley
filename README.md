@@ -15,7 +15,7 @@
 - 📊 I love turning messy datasets into dashboards and decisions
 - 🔭 Currently building projects around **Business Intelligence, Machine Learning & Data Engineering**
 - 🌱 Currently sharpening my skills in **Advanced SQL, Predictive Modeling & Data Visualization**
-- 💬 Ask me about **Python, SQL, Power BI, EDA, or ML fundamentals**
+- 💬 Ask me about Python, Django, Backend Development, REST APIs, SQL, Database Management, Power BI, EDA, and Machine Learning fundamentals**
 - 📍 Based in Bhopal, Madhya Pradesh, India
 
 ---
