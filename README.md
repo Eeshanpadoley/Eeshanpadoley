@@ -52,6 +52,9 @@ Analyzed patient admissions, treatment trends and department performance using E
 **🚧 Road Accident Analysis Dashboard**
 Cleaned and visualized large-scale accident data using Python and Power BI to uncover hotspots, severity trends and safety insights.
 
+**💼 JobTrack – Job Application Analytics System **
+(https://github.com/Eeshanpadoley/Job-Track) — A Django-based web application to manage job applications, track application status, and analyze job search progress through a centralized dashboard.
+
 > 🔗 More details & live links on my [Portfolio](https://portfolio-ebon-six-cyewejy6og.vercel.app/)
 
 ---
